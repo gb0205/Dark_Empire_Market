@@ -5,7 +5,7 @@ This is a Star Wars themed e-commerce project, built with Next.js, React, TypeSc
 
 ## Live Demo
 
-**(Add the link here when the project is deployed)**
+[Dark Empire Market](https://dark-empire-market.vercel.app/) - Experience the power of the Dark Side's e-commerce platform!
 
 ## Core Features
 
@@ -113,11 +113,14 @@ This is a Star Wars themed e-commerce project, built with Next.js, React, TypeSc
     ```
     The application will be available at `http://localhost:9003` (or the port configured in `package.json`).
 
+## Deployment
+
+The application is deployed on [Vercel](https://vercel.com) and available at [https://dark-empire-market.vercel.app/](https://dark-empire-market.vercel.app/).
+
 ## Potential Next Steps (Future Enhancements)
 *   Full integration of the administrative panel with Firebase Firestore for data persistence of products, orders, and customers.
 *   Implementation of product search and advanced filters.
 *   Category and tag management system in the administrative panel.
 *   Complete order and customer management functionalities.
 *   Unit and integration tests.
-*   Deployment to a hosting platform (e.g., Vercel, Firebase App Hosting).
-```
+*   Performance optimizations and analytics integration.
